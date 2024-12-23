@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Karthikeyan and I’m a 2022 graduate from NIT, Trichy<br>My journey began with a deep passion for design and curiosity of “How web and internet works”.<br><br>Over these 2 years ,<br>I have upskilled myself in frontend stack HTML,CSS, Javascript,TypeScript , React and other stacks Angular , Next.JS .<br>I love to create and deliver beautiful performant web products with seamless user experiences.<br>I have played a significant role as individual contributor and interim techlead in startups and corporate environment.</p>
+<p align="left">Hi, I'm Karthikeyan and I’m a 2022 graduate from NIT, Trichy<br>My journey began with a deep passion for design and curiosity of “How web and internet works”.<br><br>Over these 2 years ,<br>As a Software Development Engineer , I bring over two years of expertise in designing and delivering high-performance web solutions. At Boeing, I built enterprise-grade platforms like an interactive pilot training tool and a flight manual management system, leveraging React, Angular, and Next.js. I implemented advanced features like offline caching, 3D model viewers, and customizable layouts, while optimizing performance and deploying CI/CD pipelines. Leading a team of four, I drove rapid onboarding and feature delivery. Currently, I’m building a Next.js SaaS product for email campaigns, combining TypeScript with my passion for crafting seamless, scalable user</p>
 
 ###
 
